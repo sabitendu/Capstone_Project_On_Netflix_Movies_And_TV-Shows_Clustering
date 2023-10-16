@@ -8,7 +8,7 @@ Netflix is a corporation that handles a big library of TV series and films that 
 
 Netflix's recommendation system contributes to the company's popularity among service providers by increasing the number of items sold, offering a diverse selection of items, increasing user satisfaction and user loyalty, and providing a better understanding of what the user wants. The user will thus be able to make better judgements from a large range of movie products. Netflix is the world's biggest Internet television network and the most-valued largest streaming service, with over 139 million paid customers (total viewer pool -300 million) spanning 190 countries, 15,400 titles throughout its regional libraries, and 112 Emmy Award Nominations in 2018.Netflix's incredible digital success story would be incomplete without mentioning its recommender systems that emphasise personalisation. There are various ways to generate a list of recommendations based on your choices.
 
-## ** Objective:**
+## **Objective:**
 
 Netflix Recommender suggests Netflix films and TV series based on a user's preferred film or television show. These recommendations are made using a Natural Language Processing (NLP) model and a K-Means Clustering methodology. These models produce recommendations based on information about films and TV shows such as storyline descriptions and genres. The goal of this project is to gain a better understanding of recommender systems and to design a model capable of Clustering on comparable material by matching text-based features. Consider how Netflix creates algorithms to personalise content depending on user likes and behaviour.
 
