@@ -1,4 +1,5 @@
 # Capstone_Project_On_Netflix_Movies_And_TV-Shows_Clustering
+![fmp-1705684435139](https://github.com/sabitendu/Capstone_Project_On_Netflix_Movies_And_TV-Shows_Clustering/assets/117887431/fb99b13e-9563-4a11-af48-234fcc8ba040)
 
 ## **Abstract:**
 
